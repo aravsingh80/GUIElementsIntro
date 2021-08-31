@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GUIElementsIntro</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="hi">Hi!</string>
+    <string name="likescount">You have %1$d likes</string>
+    <string name="planets2">Planets</string>
+    <string name="radiodown">Down</string>
+    <string name="radioup">Up</string>
+    <string-array name ="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+</resources>
